@@ -1,0 +1,15 @@
+{
+    "name": "pictogram",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "",
+        "firebase": "",
+        "quickthumb": "",
+        "fs-extra": "",
+        "formidable": ""
+    }
+}
